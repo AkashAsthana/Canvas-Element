@@ -5,36 +5,7 @@ canvas.height = window.innerHeight;
 
 var c = canvas.getContext('2d');
 
-//*************/youtube playlist by 'chris courses' on canvas element************//
 
-/* c.fillStyle = 'rgba(200,200,200,0.5)';
-c.fillRect(100,100,100,100);
-c.fillRect(400,100,200,300);
-c.fillStyle = 'rgba(100,200,100,0.5)';
-c.fillRect(700,200,200,300);
-c.fillRect(50,50,10,10);
-
-c.beginPath();
-c.moveTo(100,200);
-c.lineTo(200,300);
-c.lineTo(50,40);
-c.strokeStyle = "black";
-c.stroke();
-
-
-for(var i=0;i<10;i++)
-{
-    var r = Math.random()*255;
-    var g = Math.random()*255;
-    var b = Math.random()*255;
-    var color = "rgb("+r+", "+g+", "+b+")";
-    var x = Math.random()*window.innerWidth;
-    var y = Math.random()*window.innerWidth;
-    c.beginPath();
-    c.arc(x, y, 40, 0, Math.PI*2, false);
-    c.strokeStyle = color;
-    c.stroke();
-} */
 var mouse={
     x:undefined,
     y:undefined
