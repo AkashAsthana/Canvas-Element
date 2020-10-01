@@ -1,0 +1,1 @@
+A simple project made using JavaScript and HTML.
