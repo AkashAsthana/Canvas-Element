@@ -1,1 +1,1 @@
-A simple project made using JavaScript and HTML.
+This is a simple project made using JavaScript and HTML.
